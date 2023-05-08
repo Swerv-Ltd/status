@@ -22,7 +22,7 @@
     "url": "https://swyftpay.io",
     "icon": "https://web.swyftpay.io/favicon.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 665,
     "timeMonth": 737,
     "timeYear": 720,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-08": 0
+    }
   }
 ]
