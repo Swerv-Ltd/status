@@ -6,15 +6,15 @@
     "slug": "web-app",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "95.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
-    "time": 1067,
-    "timeDay": 5331,
-    "timeWeek": 3199,
-    "timeMonth": 1503,
-    "timeYear": 1067,
+    "time": 1113,
+    "timeDay": 3678,
+    "timeWeek": 3268,
+    "timeMonth": 1602,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-05-08": 65
     }
@@ -26,15 +26,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "91.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.84%",
-    "time": 809,
-    "timeDay": 1732,
-    "timeWeek": 1183,
-    "timeMonth": 873,
-    "timeYear": 809,
+    "time": 811,
+    "timeDay": 939,
+    "timeWeek": 1205,
+    "timeMonth": 881,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2023-05-08": 120
     }
