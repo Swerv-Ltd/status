@@ -5,16 +5,16 @@
     "icon": "https://web.swyftpay.io/favicon.ico",
     "slug": "web-app",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.92%",
-    "time": 1249,
-    "timeDay": 1180,
-    "timeWeek": 2062,
-    "timeMonth": 2018,
-    "timeYear": 1249,
+    "uptimeYear": "99.93%",
+    "time": 1247,
+    "timeDay": 1114,
+    "timeWeek": 2127,
+    "timeMonth": 2036,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2023-05-08": 65
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.86%",
-    "time": 799,
-    "timeDay": 984,
-    "timeWeek": 713,
-    "timeMonth": 846,
-    "timeYear": 799,
+    "time": 801,
+    "timeDay": 955,
+    "timeWeek": 722,
+    "timeMonth": 860,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2023-05-08": 120
     }
