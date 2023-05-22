@@ -9,6 +9,12 @@ sites:
   - name: Website
     url: https://swyftpay.io
     icon: https://web.swyftpay.io/favicon.ico
+  - name: Play store
+    url: https://play.google.com/store/apps/details?id=app.swyft.swyft_prod
+    icon: https://web.swyftpay.io/favicon.ico
+  - name: App store
+    url: https://apps.apple.com/ng/app/swyft-multicurrency-wallet/id6443740202
+    icon: https://web.swyftpay.io/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - mujhtech
 
