@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
-    "time": 1327,
-    "timeDay": 2782,
-    "timeWeek": 2546,
-    "timeMonth": 2273,
-    "timeYear": 1327,
+    "time": 1352,
+    "timeDay": 2929,
+    "timeWeek": 2612,
+    "timeMonth": 2297,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2023-05-08": 65
     }
@@ -30,13 +30,49 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.87%",
-    "time": 787,
-    "timeDay": 613,
-    "timeWeek": 674,
-    "timeMonth": 836,
-    "timeYear": 787,
+    "time": 784,
+    "timeDay": 584,
+    "timeWeek": 659,
+    "timeMonth": 828,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2023-05-08": 120
     }
+  },
+  {
+    "name": "Play store",
+    "url": "https://play.google.com/store/apps/details?id=app.swyft.swyft_prod",
+    "icon": "https://web.swyftpay.io/favicon.ico",
+    "slug": "play-store",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 310,
+    "timeDay": 310,
+    "timeWeek": 310,
+    "timeMonth": 310,
+    "timeYear": 310,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "App store",
+    "url": "https://apps.apple.com/ng/app/swyft-multicurrency-wallet/id6443740202",
+    "icon": "https://web.swyftpay.io/favicon.ico",
+    "slug": "app-store",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 566,
+    "timeDay": 566,
+    "timeWeek": 566,
+    "timeMonth": 566,
+    "timeYear": 566,
+    "dailyMinutesDown": {}
   }
 ]
