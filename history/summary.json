@@ -63,17 +63,19 @@
     "url": "https://apps.apple.com/ng/app/swyft-multicurrency-wallet/id6443740202",
     "icon": "https://web.swyftpay.io/favicon.ico",
     "slug": "app-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 306,
-    "timeWeek": 455,
-    "timeMonth": 523,
-    "timeYear": 510,
-    "dailyMinutesDown": {}
+    "time": 504,
+    "timeDay": 318,
+    "timeWeek": 437,
+    "timeMonth": 516,
+    "timeYear": 504,
+    "dailyMinutesDown": {
+      "2023-06-29": 0
+    }
   }
 ]
