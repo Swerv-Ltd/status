@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
-    "time": 1807,
-    "timeDay": 3404,
-    "timeWeek": 2421,
-    "timeMonth": 2585,
-    "timeYear": 1807,
+    "time": 1819,
+    "timeDay": 3118,
+    "timeWeek": 2816,
+    "timeMonth": 2583,
+    "timeYear": 1819,
     "dailyMinutesDown": {
       "2023-06-13": 85,
       "2023-05-08": 65
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 770,
-    "timeDay": 883,
-    "timeWeek": 624,
-    "timeMonth": 719,
-    "timeYear": 770,
+    "time": 766,
+    "timeDay": 396,
+    "timeWeek": 597,
+    "timeMonth": 709,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2023-05-08": 120
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 444,
-    "timeWeek": 265,
-    "timeMonth": 253,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -64,18 +64,16 @@
     "icon": "https://web.swyftpay.io/favicon.ico",
     "slug": "app-store",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 504,
-    "timeDay": 382,
-    "timeWeek": 443,
-    "timeMonth": 516,
+    "timeDay": 420,
+    "timeWeek": 441,
+    "timeMonth": 518,
     "timeYear": 504,
-    "dailyMinutesDown": {
-      "2023-06-29": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
